@@ -1,10 +1,10 @@
 # Castiglione_Hotel_DB_querying
-We have this hotel business database and business problems which we solve by querying the database. We then provide recommendations and insights.
+We have this hotel's business database and business problems which we solve by querying the database. We then provided recommendations and insights that will help the hotel make data-driven decisions.
 
-A PDF Report is provided which consists of all recommendations and insights from the queries.
+A PDF Report is also provided which consists of all recommendations and insights from the queries.
 
 Each CSV file is a result of the querying in tabular form.
 
-Each SQL Script has the querying code, recommendations, and insights.
+Each SQL Script has a business problem, querying code, recommendations, and insights.
 
-A PNG Image of the ER Diagram is provided.
+A PNG Image of the ER Diagram is provided that will help you understand how the tables are related.
